@@ -72,26 +72,15 @@
 ![Kubernetes](http://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=kubernetes&logoColor=white)
 
 ![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
-![Redis](http://img.shields.io/badge/-Redis-white?style=flat-square&logo=redis)
 ![MongoDb](http://img.shields.io/badge/-MongoDb-white?style=flat-square&logo=mongodb)
-![RocketMq](http://img.shields.io/badge/-RocketMq-white?style=flat-square&logo=apacherocketmq)
-![Kafka](http://img.shields.io/badge/-Kafka-white?style=flat-square&logo=apachekafka&logoColor=black)
-![RabbitMq](http://img.shields.io/badge/-RabbitMq-white?style=flat-square&logo=rabbitmq)
-![Hive](http://img.shields.io/badge/-Hive-white?style=flat-square&logo=apachehive)
-![Spark](http://img.shields.io/badge/-Spark-white?style=flat-square&logo=apachespark)
 ![ElasticSearch](http://img.shields.io/badge/-ElasticSearch-white?style=flat-square&logo=elasticsearch&logoColor=black)
 
-![Subversion](http://img.shields.io/badge/-Subversion-white?style=flat-square&logo=subversion)
+
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
-![Maven](http://img.shields.io/badge/-Maven-white?style=flat-square&logo=apachemaven&logoColor=bc2043)
-![Gradle](http://img.shields.io/badge/-Gradle-white?style=flat-square&logo=gradle&logoColor=09303a)
 ![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
 ![Vgo](http://img.shields.io/badge/-Vgo-white?style=flat-square&logo=go)
-
-![Eclipse](http://img.shields.io/badge/-Eclipse-41347e?style=flat-square&logo=eclipse&logoColor=white)
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
-![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-484848?style=flat-square&logo=sublimetext)
+
 
 <br/>
 
