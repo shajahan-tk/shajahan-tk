@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Supravat Mondal</h1>
+<h1 align="center">Hi 👋, I'm Shajahan Tk</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
 
