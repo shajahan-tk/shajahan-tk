@@ -65,5 +65,5 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>⚡"First, solve the problem. Then, write the code." – John Johnson</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>"First, solve the problem. Then, write the code." – John Johnson</b> :)</em>
 
