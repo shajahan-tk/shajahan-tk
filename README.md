@@ -54,9 +54,6 @@
 ![Python](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
 ![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
 ![MongoDb](http://img.shields.io/badge/-MongoDb-white?style=flat-square&logo=mongodb)
-![ElasticSearch](http://img.shields.io/badge/-ElasticSearch-white?style=flat-square&logo=elasticsearch&logoColor=black)
-
-
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
