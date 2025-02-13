@@ -33,19 +33,15 @@
 
 <br><br>
 
-🔭 I’m currently working on **Magento 2**
+🔭 I’m currently working on **Doctosmart**
 
-🌱 I’m currently learning **Magento 2 cloud**
+👨‍💻 All of my projects are available 
 
-👨‍💻 All of my projects are available at [Supravat's works](https://supravatm.github.io/projects)
+💬 Ask me about **React,Python Django**
 
-💬 Ask me about **PHP, Magento, LAMP**
+📫 How to reach me **tshajahan494@gmail.com**
 
-📫 How to reach me **supravt.com@gmail.com**
 
-📄 Know about my experiences [my experiences](http://supravatm.github.io)
-
-⚡ Fun fact **I think I'm funny**
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
