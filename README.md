@@ -66,11 +66,6 @@
 ![Swoole](http://img.shields.io/badge/-Swoole-338eef?style=flat-square&logo=php&logoColor=white)
 ![Kotlinx Coroutines](http://img.shields.io/badge/-Kotlinx%20Coroutines-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
 
-![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)
-![Nginx](http://img.shields.io/badge/-Nginx-2b9900?style=flat-square&logo=nginx&logoColor=white)
-![Docker](http://img.shields.io/badge/-Docker-3596ed?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](http://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=kubernetes&logoColor=white)
-
 ![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
 ![MongoDb](http://img.shields.io/badge/-MongoDb-white?style=flat-square&logo=mongodb)
 ![ElasticSearch](http://img.shields.io/badge/-ElasticSearch-white?style=flat-square&logo=elasticsearch&logoColor=black)
@@ -78,7 +73,6 @@
 
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
-![Vgo](http://img.shields.io/badge/-Vgo-white?style=flat-square&logo=go)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
 
 
